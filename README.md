@@ -4,7 +4,7 @@ This dashboard offers actionable insights into sales performance, outlet operati
 
 🎯 Key Highlights:
 
-Total Sales: $1.20M | Avg Sales: $141 | Avg Rating: 3.9
+Total Sales: | Avg Sales: | Avg Rating:
 Interactive Filters: Outlet location, size, and item type
 Deep Dive Visuals: Sales by fat content, outlet tier, and type performance
 Trend Analysis: Outlet establishment growth over time
